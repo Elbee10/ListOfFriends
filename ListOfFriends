@@ -1,9 +1,4 @@
-ListOfFriends/.gitignore
-37e9e22  18 hours ago
-@Elbee10 Elbee10 Update .gitignore
-1 contributor
-RawBlameHistory    
-194 lines (162 sloc)  5.57 KB
+
 import java.util.ArrayList;
 import java.util.Scanner;
 	public class Person {
